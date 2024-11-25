@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "solgraph-provider-openai"
+version = "1.0.0"
+description = "OpenAI provider plugin for SolGraph"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+authors = [
+    { name = "SolGraph Team", email = "team@solgraph.com" }
+]
+dependencies = [
+    "openai>=1.0.0",
+]
+
+[project.entry-points."solgraph.model_providers"]
+openai = "solgraph_provider_openai.provider:OpenAIProviderPlugin" 
