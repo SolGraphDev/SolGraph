@@ -151,7 +151,7 @@ solana program deploy target/deploy/solgraph.so
 
 - [Website](https://solgraph.io)
 - [GitHub](https://github.com/SolGraphDev/SolGraph)
-- [Twitter](https://twitter.com/SolGraph)
+- [Twitter](https://x.com/SolGraphDotDev)
 - [Telegram](https://t.me/SolGraph)
 - [Docs](https://docs.solgraph.io)
 
