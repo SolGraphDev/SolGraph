@@ -149,7 +149,7 @@ solana program deploy target/deploy/solgraph.so
 
 ## 🌐 Community & Links
 
-- [Website](https://solgraph.io)
+- [Website](https://solgraph.dev)
 - [GitHub](https://github.com/SolGraphDev/SolGraph)
 - [Twitter](https://x.com/SolGraphDotDev)
 - [Telegram](https://t.me/solgraph_dev)
